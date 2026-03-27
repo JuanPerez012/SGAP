@@ -1,0 +1,13 @@
+package frontend.sgap;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SgapApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
